@@ -1,0 +1,6 @@
+onnxruntime
+torch
+torchvision
+numpy
+faust
+opencv-python
